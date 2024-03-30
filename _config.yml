@@ -12,7 +12,7 @@ title                    : "mariuscziriak"
 title_separator          : "-"
 name                     : &name "Marius Cziriak"
 description              : &description "academic website"
-url                      : https://mariuscziriak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cmdr-majus.mariuscziriak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 

@@ -11,26 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate, Graduate School of Economic and Social Sciences (GESS), University of Mannheim, since 2019
+* M.Sc. in Economics, University of Munich (LMU), 2019
+* B.Sc. in Economics, University of Heidelberg, 2016
+* Erasmus+ Exchange, Warsaw School of Economics (SGH), FWS 2014-15
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant, 01/2017 -- 08/2019
+  * MEA -- Munich Centre for the Economics of Ageing
+  * Department of Old Age Provision and Social Policy
+  * Supervisors: Nicolas Goll, Irene Ferrari, Yuri Pettinicchi, Tabea Bucher-Koenen
 
-* Fall 2015: Research Assistant
-  * Github University
+* Internship, 05/2016 -- 08/2016
+  * ZEW –- Leibniz Centre for European Economic Research
+  * Department Corporate Taxation and Public Finance 
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisors: Sebastian Blesse, Zareh Asatryan, Friedrich Heinemann
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Internship, 02/2016 -- 05/2016
+  * WSI -- Institute of Economic and Social Research
+  * Research Unit of Labour Market Analyses
+  * Supervisor: Toralf Pusch
+  
+* Teaching Assistant, 04/2014 -- 07/2014
+  * University of Heidelberg
+  * Chair of Public Economics (Christoph Vanberg)
   
 Skills
 ======
